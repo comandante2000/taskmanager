@@ -45,4 +45,4 @@ To start the backend server:
 
 php artisan serve
 
-The backend will be accessible at http://localhost:8000.
+The backend will be accessible at (http://127.0.0.1:8000)
